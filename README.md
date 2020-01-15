@@ -22,4 +22,5 @@ complex_mcmc(self, sentence): Gibbs sampling is one of the techniques used under
 
 Accuracy:
 The accuracy obtained over the testing set of 2000 sentences is as below. Highest accuracy is obtained through viterbi, as we consider the transition as well as the previous probability.
+[alt text](https://github.com/kasy03/Part-of-speech-tagger/blob/master/Accuracy.pngAccuracy.PNG)
 
